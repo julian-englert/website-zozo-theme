@@ -1,4 +1,4 @@
-baseURL = "https://github.com/julian-englert/hugo-theme-zozo/"
+baseURL = "http://localhost:1313/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "JU EN"                         # site title  # 网站标题
