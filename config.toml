@@ -1,4 +1,4 @@
-baseURL = "https://github.com/julian-englert/website-zozo-theme/"
+baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "JU EN"                         # site title  # 网站标题
